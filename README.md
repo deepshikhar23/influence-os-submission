@@ -2,7 +2,7 @@
 
 This project is a submission for the AI Intern assessment at Influence OS. It's a full-stack application that acts as an autonomous AI agent to research and create high-quality, post-ready LinkedIn content for personal branding.
 
-**Live Demo URL:** [[PASTE YOUR HUGGING FACE SPACES LINK HERE]](https://huggingface.co/spaces/deepshikhar23/influence-os-submission)
+**Live Demo URL:** [LIVE URL](https://huggingface.co/spaces/deepshikhar23/influence-os-submission)
 
 ## Key Features
 
